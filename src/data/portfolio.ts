@@ -45,13 +45,19 @@ export const portfolioData: PortfolioData = {
   ],
   projects: [
     {
-      title: "Dự án số Một",
+      title: "SSI Stock Assistant - Trợ lý AI Phân tích Cổ phiếu",
+      description: "Xây dựng và triển khai chatbot trợ lý AI thông minh hỗ trợ phân tích định lượng và phân tích cơ bản cho thị trường chứng khoán Việt Nam. Hệ thống tự động truy vấn và xử lý dữ liệu từ Vnstock, giúp người dùng tra cứu nhanh thông tin, chỉ số tài chính và các nhận định thị trường một cách trực quan.",
+      tech: ["LLM", "Cloudflare Workers", "Vnstock Data", "Next.js", "AI Agent"],
+      link: "https://llm-chat-app-template.mc13022005.workers.dev",
+    },
+    {
+      title: "Nghiên cứu Phương án Sàn TMĐT cho Coolmate",
       description: "Ứng dụng web hiệu năng cao được xây dựng với Next.js và Tailwind CSS.",
       tech: ["Next.js", "Tailwind CSS", "Framer Motion"],
       github: "https://github.com",
     },
     {
-      title: "Dự án số Hai",
+      title: "UniSwap - Nền tảng Re-commerce",
       description: "Bảng điều khiển tương tác trực quan hóa dữ liệu kinh tế phức tạp.",
       tech: ["React", "D3.js", "TypeScript"],
       link: "https://demo.com",
