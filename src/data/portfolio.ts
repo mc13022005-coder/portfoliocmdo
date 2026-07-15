@@ -54,13 +54,11 @@ export const portfolioData: PortfolioData = {
       title: "Nghiên cứu Phương án Sàn TMĐT cho Coolmate",
       description: "Ứng dụng web hiệu năng cao được xây dựng với Next.js và Tailwind CSS.",
       tech: ["Next.js", "Tailwind CSS", "Framer Motion"],
-      github: "https://github.com",
     },
     {
       title: "UniSwap - Nền tảng Re-commerce",
       description: "Bảng điều khiển tương tác trực quan hóa dữ liệu kinh tế phức tạp.",
       tech: ["React", "D3.js", "TypeScript"],
-      link: "https://demo.com",
     },
   ],
   experience: [
