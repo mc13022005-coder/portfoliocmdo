@@ -17,7 +17,7 @@ export const Projects = () => {
       >
         <h2 className="text-4xl font-bold mb-12 flex items-center gap-4">
           <span className="text-blue-500 font-mono text-xl">03.</span>
-          Featured Projects
+          Dự án tiêu biểu
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

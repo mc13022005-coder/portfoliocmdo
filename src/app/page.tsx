@@ -17,7 +17,7 @@ export default function Home() {
       
       {/* Simple Footer */}
       <footer className="py-12 text-center text-gray-600 text-sm font-mono">
-        <p>Designed & Built by Đỗ Cao Minh</p>
+        <p>Thiết kế & Xây dựng bởi Đỗ Cao Minh</p>
         <p className="mt-2">© 2024</p>
       </footer>
     </div>

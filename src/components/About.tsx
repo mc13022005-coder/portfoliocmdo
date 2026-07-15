@@ -15,16 +15,16 @@ export const About = () => {
       >
         <h2 className="text-4xl font-bold mb-12 flex items-center gap-4">
           <span className="text-blue-500 font-mono text-xl">01.</span>
-          About Me
+          Về bản thân
         </h2>
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6 text-gray-400 text-lg leading-relaxed">
             <p>
-              Hello! I am Đỗ Cao Minh, a Development Economics student at the University of Economics and Business (UEB). My academic journey is fueled by a passion for bridging the gap between rigorous data analysis and impactful public policy.
+              Xin chào! Mình là Đỗ Cao Minh, sinh viên năm 3 chuyên ngành Phân tích dữ liệu kinh tế và chính sách công tại Trường Đại học Kinh tế - Đại học Quốc gia Hà Nội (UEB).
             </p>
             <p>
-              With a strong foundation in economic theories and hands-on experience in data analytics tools like Power BI and Excel, I focus on translating complex datasets into actionable insights that address development challenges and drive sustainable growth. I believe that data is not just numbersit is a powerful tool to shape better decisions and build a better society.
+              Hành trình học tập và làm việc của mình được thúc đẩy bởi niềm đam mê kết nối giữa phân tích dữ liệu chuyên sâu và các quyết định thực tế. Với thế mạnh sử dụng các công cụ phân tích dữ liệu như Power BI, Excel và Stata, mình tập trung vào việc chuyển hóa các tập dữ liệu phức tạp thành những thông tin giá trị (insights). Mình luôn hướng tới sự chủ động, tính trách nhiệm cao và cam kết hoàn thành công việc đúng hạn.
             </p>
           </div>
           

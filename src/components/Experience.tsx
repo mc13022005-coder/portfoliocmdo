@@ -21,7 +21,7 @@ export const Experience = () => {
         >
           <h2 className="text-4xl font-bold mb-16 flex items-center gap-4">
             <span className="text-blue-500 font-mono text-xl">04.</span>
-            Professional Journey
+            Kinh nghiệm làm việc
           </h2>
 
           <div className="relative glass p-8 md:p-12 rounded-3xl overflow-hidden">
@@ -32,7 +32,7 @@ export const Experience = () => {
               <div className="lg:col-span-4">
                 <div className="flex items-center gap-3 text-blue-400 font-mono mb-4">
                    <Briefcase size={20} />
-                   <span>Experience</span>
+                   <span>Kinh nghiệm</span>
                 </div>
                 <h3 className="text-3xl font-bold mb-2">{ssi.company}</h3>
                 <p className="text-xl text-gray-300 mb-2">{ssi.role}</p>
@@ -47,7 +47,7 @@ export const Experience = () => {
                 <div className="space-y-6">
                   <h4 className="flex items-center gap-3 text-white font-bold text-lg">
                     <TrendingUp size={20} className="text-blue-500" />
-                    Key Achievements
+                    Thành tựu nổi bật
                   </h4>
                   <ul className="space-y-4">
                     {ssi.achievements.map((achievement, index) => (

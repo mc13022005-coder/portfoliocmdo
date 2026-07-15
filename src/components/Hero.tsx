@@ -20,7 +20,7 @@ export const Hero = () => {
           transition={{ delay: 0.2, duration: 0.8 }}
           className="text-blue-400 font-mono mb-4"
         >
-          Hello, my name is
+          Xin chào, mình là
         </motion.p>
         <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-b from-white to-white/50">
           {portfolioData.name}
@@ -38,13 +38,13 @@ export const Hero = () => {
             href="#projects"
             className="px-8 py-3 bg-white text-black rounded-full font-medium hover:bg-gray-200 transition-colors"
           >
-            View My Work
+            Xem dự án của mình
           </a>
           <a
             href="#contact"
             className="px-8 py-3 glass rounded-full font-medium hover:bg-white/10 transition-colors"
           >
-            Get In Touch
+            Liên hệ
           </a>
         </motion.div>
       </motion.div>
